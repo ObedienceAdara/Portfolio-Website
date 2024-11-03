@@ -8,7 +8,7 @@ import Projects from './screens/ProjectScreen';
 const App = () => {
   return (
     <Router>
-      <Routes>
+      <Routes basename={process.env.PUBLIC_URL}>
         <Route path="/" element={<PersonalWebsite />} />
         <Route path="/about" element={<AboutSection />} />
         <Route path="/projects" element={<Projects />} />
