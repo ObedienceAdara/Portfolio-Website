@@ -188,7 +188,7 @@ const ProjectsSection = () => {
         {/* GitHub Link */}
         <div className="text-center mt-16">
           <a
-            href="https://github.com"
+            href="https://github.com/ObedienceAdara"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center space-x-2 bg-gray-800 text-white px-6 py-3 rounded-lg hover:bg-gray-700 transition-colors"

@@ -21,17 +21,17 @@ const AboutSection = () => {
     {
       title: 'Student Developer',
       company: 'University Projects',
-      period: '2022 - 2023',
+      period: '2023 - 2024',
       description: 'Led multiple team projects and hackathon participations'
     }
   ];
 
   const education = [
     {
-      degree: 'Bachelor of Science in Computer Science',
-      school: 'University of Technology',
-      period: '2020 - 2024',
-      gpa: '3.8/4.0'
+      degree: 'Bachelor of Science in Aerospace Engineering',
+      school: 'Lagos State University',
+      period: '2023 - 2028',
+      gpa: '4.5/5.0'
     }
   ];
 
@@ -81,7 +81,7 @@ const AboutSection = () => {
               <div className="grid grid-cols-2 gap-4 text-gray-300">
                 <div>
                   <p className="text-gray-400 mb-1">Name</p>
-                  <p>Jane Doe</p>
+                  <p>Obedience Adara</p>
                 </div>
                 <div>
                   <p className="text-gray-400 mb-1">Age</p>
@@ -89,11 +89,11 @@ const AboutSection = () => {
                 </div>
                 <div>
                   <p className="text-gray-400 mb-1">Location</p>
-                  <p>San Francisco, CA</p>
+                  <p>Lagos, Nigeria</p>
                 </div>
                 <div>
                   <p className="text-gray-400 mb-1">Email</p>
-                  <p>jane@example.com</p>
+                  <p>obedienceadara@gmail.com</p>
                 </div>
               </div>
             </div>
