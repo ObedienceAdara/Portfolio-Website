@@ -108,7 +108,7 @@ const PersonalWebsite = () => {
             <a href="https://github.com/ObedienceAdara" className="p-2 hover:text-purple-400 transition-colors">
               <Github />
             </a>
-            <a href="https://linkedin.com/obedienceadara" className="p-2 hover:text-purple-400 transition-colors">
+            <a href="https://www.linkedin.com/in/obedienceadara/" className="p-2 hover:text-purple-400 transition-colors">
               <Linkedin />
             </a>
             <a href="https://X.com/ObedienceAdara" className="p-2 hover:text-purple-400 transition-colors">
