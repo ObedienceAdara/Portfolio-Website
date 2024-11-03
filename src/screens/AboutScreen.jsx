@@ -85,7 +85,7 @@ const AboutSection = () => {
                 </div>
                 <div>
                   <p className="text-gray-400 mb-1">Age</p>
-                  <p>22</p>
+                  <p>17</p>
                 </div>
                 <div>
                   <p className="text-gray-400 mb-1">Location</p>
