@@ -62,8 +62,8 @@ const AboutSection = () => {
             </span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto">
-            I'm a passionate software engineer and student, dedicated to creating elegant solutions 
-            to complex problems. With a focus on web development and software engineering, 
+            I'm a passionate software engineer and student, dedicated to creating solutions 
+            to complex problems. With a focus on web development, Deep Learning and software engineering, 
             I strive to build applications that make a difference.
           </p>
         </div>
