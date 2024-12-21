@@ -4,24 +4,27 @@ import { Code, Book, Terminal, Briefcase, Award, Download, Globe, Coffee } from 
 const AboutSection = () => {
   const skills = [
     { name: 'JavaScript', level: 90 },
+    { name: 'Python', level: 90 },
     { name: 'React', level: 85 },
-    { name: 'Python', level: 80 },
-    { name: 'Node.js', level: 75 },
+    { name: 'React Native', level: 80 },
+    { name: 'Node.js', level: 70 },
     { name: 'SQL', level: 70 },
-    { name: 'TypeScript', level: 65 }
+    { name: 'TypeScript', level: 65 },
+    { name: 'AWS', level: 60 },
+    { name: 'GCP', level: 50 }
   ];
 
   const experiences = [
     {
-      title: 'Software Engineering Intern',
-      company: 'Tech Corp',
-      period: '2023 - Present',
-      description: 'Working on full-stack development using React and Node.js'
+      title: 'Software Developer',
+      company: 'Plex Hedge',
+      period: '2024 - Present',
+      description: 'Working on full-stack development using React and Node.js, and mobile development using React Native'
     },
     {
       title: 'Student Developer',
       company: 'University Projects',
-      period: '2023 - 2024',
+      period: '2023 - Present',
       description: 'Led multiple team projects and hackathon participations'
     }
   ];

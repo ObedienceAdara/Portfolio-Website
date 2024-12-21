@@ -42,8 +42,8 @@ const PersonalWebsite = () => {
 
   const Projects = [
     {
-      name: "Block Sphere",
-      description: "A next generation decentralized social media platform with end-to-end encryption",
+      name: "E-commerce App",
+      description: "A full-stack e-commerce platform",
       tech: ["Node", "React", "Mongo DB"]
     },
     {

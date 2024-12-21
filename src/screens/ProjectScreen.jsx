@@ -19,7 +19,7 @@ const ProjectsSection = () => {
       image: "/api/placeholder/600/400",
       category: "web",
       technologies: ["React", "Node.js", "MongoDB", "Express", "Stripe"],
-      githubLink: "https://github.com/",
+      githubLink: "https://github.com/obedienceadara/ecommerce-app",
       liveLink: "https://demo.com",
       features: [
         "User authentication and authorization",
@@ -35,7 +35,7 @@ const ProjectsSection = () => {
       image: "/api/placeholder/600/400",
       category: "mobile",
       technologies: ["React Native", "Firebase", "Redux", "TypeScript"],
-      githubLink: "https://github.com",
+      githubLink: "https://github.com/obedienceadara/task-management-app",
       liveLink: "https://demo.com",
       features: [
         "Real-time task synchronization",
@@ -51,7 +51,7 @@ const ProjectsSection = () => {
       image: "/api/placeholder/600/400",
       category: "backend",
       technologies: ["Node.js", "Docker", "Redis", "PostgreSQL"],
-      githubLink: "https://github.com",
+      githubLink: "https://github.com/obedienceadara/api-gateway",
       features: [
         "Request routing and load balancing",
         "Rate limiting and caching",
@@ -66,8 +66,8 @@ const ProjectsSection = () => {
       image: "/api/placeholder/600/400",
       category: "web",
       technologies: ["React", "Tailwind CSS", "Framer Motion"],
-      githubLink: "https://github.com",
-      liveLink: "https://demo.com",
+      githubLink: "https://github.com/obedienceadara/PortfolioWebsite",
+      liveLink: "obedienceadara.github.io/Portfolio-Website",
       features: [
         "Responsive design",
         "Dark mode support",
