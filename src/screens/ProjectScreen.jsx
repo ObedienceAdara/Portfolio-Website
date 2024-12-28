@@ -7,7 +7,7 @@ const ProjectsSection = () => {
   const categories = [
     { id: 'all', label: 'All Projects' },
     { id: 'web', label: 'Web Development' },
-    { id: 'mobile', label: 'Mobile Apps' },
+    { id: 'libraries', label: 'Libraries' },
     { id: 'backend', label: 'Backend' },
   ];
 
@@ -30,18 +30,17 @@ const ProjectsSection = () => {
     },
     {
       id: 2,
-      title: "Task Management App",
-      description: "A mobile-first task management application with real-time updates and collaborative features.",
+      title: "FromJS Python Library",
+      description: "A Python library for parsing and executing JavaScript code within Python applications.",
       image: "/api/placeholder/600/400",
-      category: "mobile",
-      technologies: ["React Native", "Firebase", "Redux", "TypeScript"],
-      githubLink: "https://github.com/obedienceadara/task-management-app",
-      liveLink: "https://demo.com",
+      category: "libraries",
+      technologies: ["Python"],
+      githubLink: "https://github.com/obedienceadara/FromJS",
+      liveLink: "https://pypi.org/project/FromJS/",
       features: [
-        "Real-time task synchronization",
-        "Team collaboration tools",
-        "Push notifications",
-        "Offline support",
+        "Reuse methods directly from your Javascript code",
+        "Well detailed logging",
+        "Open Source",
       ]
     },
     {
